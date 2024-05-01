@@ -8,13 +8,21 @@ Each multiplication will have the following output:
 
 ## Multiply 1001 and 0011
 Product Q-1 M -M Log
+
 0000 0011 0 1001 0111 Populate Data
+
 0111 0011 0 1001 0111 A = A - M
+
 0011 1001 1 1001 0111 Shift
+
 0001 1100 1 1001 0111 Shift
+
 1010 1100 1 1001 0111 A = A + M
+
 1101 0110 0 1001 0111 Shift
+
 1110 1011 0 1001 0111 Shift
+
 
 1001 * 0011 = 11101011
 
