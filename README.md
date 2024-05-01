@@ -17,6 +17,7 @@ Product Q-1 M -M Log
 1110 1011 0 1001 0111 Shift
 
 1001 * 0011 = 11101011
+
 -7 * 3 = - 21
 
 ### The input.txt file will be as follows:
