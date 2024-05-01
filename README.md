@@ -30,15 +30,24 @@ Product Q-1 M -M Log
 
 ### The input.txt file will be as follows:
 n // count of multiplications
+
 bits // number of bits
+
 n1 n2 // binary signed numbers n1 and n2
+
 bits // number of bits
+
 n1 n2 // binary signed numbers n1 and n2
+
 bits // number of bits
+
 n1 n2 // binary signed numbers n1 and n2
+
 ...
 bits // number of bits
+
 n1 n2 // binary signed numbers n1 and n2
+
 
 ### Please use the following function signatures:
 - int binaryToDecimal(char *binary)
